@@ -1,0 +1,3 @@
+Build path: D:/юните WebGl
+Build number: 66
+PluginYG version: 2.0032

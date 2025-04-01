@@ -1,0 +1,27 @@
+{
+    "stringKeys": [],
+    "stringValues": [],
+    "floatKeys": [],
+    "floatValues": [],
+    "intKeys": [],
+    "intValues": [],
+    "intExample": 5,
+    "strExample": "Hello!",
+    "boolExample": [
+        false,
+        false,
+        false,
+        false
+    ],
+    "idSave": 112,
+    "LevelComplete": [
+        1,
+        0,
+        0,
+        0
+    ],
+    "QualityValue": 2,
+    "SFX_Value": 0.0,
+    "Music_Value": 0.0,
+    "c": 4
+}
